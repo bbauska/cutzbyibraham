@@ -1,0 +1,58 @@
+/* css/styles.css of cutzbyibraham for cutzbyibraham.bauska.org */
+html,
+body {
+  height: 100%;
+  margin: 0;
+  background: #111;
+  color: #fff;
+  font-family: system-ui, Segoe UI, Roboto
+}
+
+#container {
+  position: fixed;
+  inset: 0;
+  overflow: hidden
+}
+
+#ui {
+  position: fixed;
+  left: 12px;
+  bottom: 12px;
+  z-index: 10;
+  background: rgba(0, 0, 0, 0.35);
+  padding: 8px;
+  border-radius: 8px
+}
+
+#loading {
+  position: fixed;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  z-index: 20
+}
+
+a {
+  color: #9cf;
+  text-decoration: none;
+}
+
+a:hover {
+  color: white;
+}
+
+.hint {
+  opacity: 0.85;
+  font-size: 13px
+}
+
+.copy {
+  position: fixed;
+  bottom: 20px;
+  right: 20px;
+  color: #000;
+  background: rgb(255 255 255 / 0.9);
+  padding: 10px;
+  border-radius: 5px;
+  font-size: 12px;
+}
