@@ -1,4 +1,4 @@
-/* js/script.js of cutzbyibraham for cutzbyibraham.bauska.org */
+/* js/script.js of cutzbyibrahim for cutzbyibrahim.bauska.org */
 if (!window.THREE) console.error("Three.js non chargé");
 let layers = [];
 const textures = [];
