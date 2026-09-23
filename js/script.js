@@ -40,6 +40,11 @@ const IMAGE_PATHS = ['../images/image01.jpg', '../images/image02.jpg', '../image
 					 '../images/image13.jpg', '../images/image14.png', '../images/image15.png', 
 					 '../images/image16.jpg', '../images/image17.png', '../images/image18.png', 
                      '../images/image19.jpg', '../images/image20.jpg', '../images/image21.jpg', 
+                     '../images/image25.jpg', '../images/image26.jpg', '../images/image27.jpg', 
+                     '../images/image28.jpg', '../images/image29.jpg', '../images/image31.jpg', 
+                     '../images/image32.jpg', '../images/image33.jpg', '../images/image34.jpg', 
+                     '../images/image35.jpg', '../images/image36.jpg', '../images/image37.jpg', 
+                     '../images/image38.jpg', '../images/image39.jpg', '../images/image40.jpg', 
 					 '../images/image22.jpg', '../images/image23.png', '../images/image24.png'];
 let shuffledImages = [];
 let currentImageIndex = 0;
