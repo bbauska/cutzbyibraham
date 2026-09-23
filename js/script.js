@@ -35,17 +35,17 @@ const LAYER_CONFIG = [{
 }];
 const IMAGE_PATHS = ['../images/image01.jpg', '../images/image02.jpg', '../images/image03.jpg', 
                      '../images/image04.jpg', '../images/image05.jpg', '../images/image06.jpg', 
-					 '../images/image07.jpg', '../images/image08.png', '../images/image09.png', 
+					 '../images/image07.jpg', '../images/image08.jpg', '../images/image09.jpg', 
                      '../images/image10.jpg', '../images/image11.jpg', '../images/image12.jpg', 
-					 '../images/image13.jpg', '../images/image14.png', '../images/image15.png', 
-					 '../images/image16.jpg', '../images/image17.png', '../images/image18.png', 
+					 '../images/image13.jpg', '../images/image14.jpg', '../images/image15.jpg', 
+					 '../images/image16.jpg', '../images/image17.jpg', '../images/image18.jpg', 
                      '../images/image19.jpg', '../images/image20.jpg', '../images/image21.jpg', 
                      '../images/image25.jpg', '../images/image26.jpg', '../images/image27.jpg', 
                      '../images/image28.jpg', '../images/image29.jpg', '../images/image31.jpg', 
                      '../images/image32.jpg', '../images/image33.jpg', '../images/image34.jpg', 
                      '../images/image35.jpg', '../images/image36.jpg', '../images/image37.jpg', 
                      '../images/image38.jpg', '../images/image39.jpg', '../images/image40.jpg', 
-					 '../images/image22.jpg', '../images/image23.png', '../images/image24.png'];
+					 '../images/image22.jpg', '../images/image23.jpg', '../images/image24.jpg'];
 let shuffledImages = [];
 let currentImageIndex = 0;
 console.log("&Toc on codepen - https://codepen.io/BBauska");
